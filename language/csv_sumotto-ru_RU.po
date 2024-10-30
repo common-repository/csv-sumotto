@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wer\n"
+"POT-Creation-Date: 2013-02-17 13:14+0400\n"
+"PO-Revision-Date: 2013-02-17 13:14+0400\n"
+"Last-Translator: sumotto <sumotto@yandex.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: Z:\\home\\sumotto.ru\\csv\\wp-content\\plugins\\csv-"
+"sumotto\n"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_add_table.php:4
+msgid "Add New Table"
+msgstr "Добавить таблицу"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_add_table.php:11
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_all_tables.php:6
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_all_tables.php:7
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_edit_table.php:10
+msgid "Name"
+msgstr "Имя"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_add_table.php:15
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_all_tables.php:6
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_all_tables.php:7
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_edit_table.php:14
+msgid "Caption"
+msgstr "Заголовок"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_add_table.php:19
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_all_tables.php:6
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_all_tables.php:7
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_edit_table.php:18
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_settings.php:18
+msgid "Description"
+msgstr "Описание"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_add_table.php:25
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_edit_table.php:24
+msgid "File name"
+msgstr "Имя файла"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_add_table.php:30
+msgid "file must be in "
+msgstr "Файл должен лежать в "
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_add_table.php:36
+msgid "create"
+msgstr "создать"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_add_table.php:44
+msgid "The list of available files"
+msgstr "Список доступных файлов"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_all_tables.php:3
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_function.php:26
+msgid "Tables"
+msgstr "Таблицы"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_all_tables.php:3
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_edit_table.php:3
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_function.php:28
+msgid "Add New"
+msgstr "Добавить новую"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_all_tables.php:13
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_all_tables.php:15
+msgid "Edit"
+msgstr "Редактировать"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_all_tables.php:16
+msgid "Delete Permanently"
+msgstr "Удалить навсегда"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_all_tables.php:16
+msgid "Delete"
+msgstr "Удалить"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_all_tables.php:32
+msgid "The table will be permanently deleted \\n Delete table?"
+msgstr "Таблица будет удалена \\n Удалить таблицу?"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_edit_table.php:3
+msgid "Edit table"
+msgstr "Редактировать таблицу"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_edit_table.php:38
+msgid "update"
+msgstr "обновить"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_function.php:27
+msgid "All Tables"
+msgstr "Все таблицы"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_function.php:29
+msgid "CSV SumoTTo settings"
+msgstr "CSV SumoTTo настройки"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_function.php:195
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_function.php:233
+msgid "Sorry, the file is temporarily unavailable<br>"
+msgstr "Извините, файл временно недоступен <br>"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_function.php:231
+msgid "select all"
+msgstr "Выделить все"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_function.php:240
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_function.php:256
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_function.php:276
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_settings.php:5
+msgid "Hacker?"
+msgstr "Хакер?"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:8
+msgid "Font Cell"
+msgstr "Шрифт"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:11
+msgid "Top"
+msgstr "По верхнему краю"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:12
+msgid "Middle"
+msgstr "По центру"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:13
+msgid "Buttom"
+msgstr "По нижнему краю"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:15
+msgid "Merge Cells"
+msgstr "Объединить ячейки"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:16
+msgid "Split Cell"
+msgstr "Разьединить ячейку"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:18
+msgid "Border collapse"
+msgstr "Вид границ"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:19
+msgid "Borders"
+msgstr "Границы"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:21
+msgid "Size"
+msgstr "Размер"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:23
+msgid "Clear Formatting"
+msgstr "Очистить форматы"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:28
+msgid "Bold"
+msgstr "Полужирный"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:29
+msgid "Italic"
+msgstr "Курсив"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:30
+msgid "Underline"
+msgstr "Подчеркивание"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:32
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:33
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:35
+msgid "Left"
+msgstr "По левому краю"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:36
+msgid "Center"
+msgstr "По центр"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:37
+msgid "Right"
+msgstr "По правому краю"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:54
+msgid "None Font Color"
+msgstr "Без цвета"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:73
+msgid "None Background Color"
+msgstr "Без фона"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:80
+msgid "Theme Font Style"
+msgstr "Шрифт поумолчанию"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:94
+msgid "Theme size"
+msgstr "Поумолчанию"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:103
+msgid "Border All"
+msgstr "Все границы"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:104
+msgid "Border Top"
+msgstr "Верхняя граница"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:105
+msgid "Border Left"
+msgstr "Левая граница"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:106
+msgid "Border Buttom"
+msgstr "Нижняя граница"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:107
+msgid "Border Right"
+msgstr "Правая граница"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:108
+msgid "Border None"
+msgstr "Без границ"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:136
+msgid "content"
+msgstr "содержание"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:165
+msgid "table sizes"
+msgstr "размер таблицы"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:165
+msgid "cell sizes"
+msgstr "размер ячейки"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:165
+msgid "column width"
+msgstr "ширина колонки"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:165
+msgid "height of table row"
+msgstr "высота ряда"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:165
+msgid "height"
+msgstr "высота"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_redactor.php:165
+msgid "width"
+msgstr "ширина"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_settings.php:21
+msgid "The plugin allows you to place a table from a CSV file on your site."
+msgstr ""
+"Плагин позволяет размещать таблицу из файлов CSV на страницах вашего сайте"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_settings.php:23
+msgid "Download the file to a folder "
+msgstr "Загрузите файл в папку "
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_settings.php:24
+msgid "Navigate to Tables -> Add New, create a table."
+msgstr "Перейдите в таблицы -> Добавить новую, создайте таблицу"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_settings.php:25
+msgid "Navigate to Tables, select the table you want, edit, and save."
+msgstr ""
+"Перейдите в таблицы, выберите нужную таблицу, отредактируйте и сохраните"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_settings.php:26
+msgid ""
+"Go to the editor pages / notes, paste Shortcode in a place where you want to "
+"display a table."
+msgstr ""
+"В редакторе страниц / записи, вставьте Shortcode в месте, где  бы вы хотели "
+"чтобы размещалась ваша таблица."
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_settings.php:32
+msgid "Donate"
+msgstr "Пожертвовать"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_settings.php:35
+msgid "Please visit our website"
+msgstr "Пожалуйста, посетите наш сайт"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_settings.php:35
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_settings.php:58
+msgid "Settings"
+msgstr "Настройки"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_settings.php:62
+msgid "by default"
+msgstr "по умолчанию"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_settings.php:63
+msgid "If your files are stored in the encoding CP1251"
+msgstr "Если ваши файлы хранятся в кодировке CP1251"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_settings.php:64
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_tables.php:10
+msgid "Table updated."
+msgstr "Таблица обновлена"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_tables.php:15
+msgid "Table added."
+msgstr "Таблица добавлена"
+
+#: Z:\home\sumotto.ru\csv\wp-content\plugins\csv-sumotto/csv_sumotto_tables.php:16
+msgid "Table delete."
+msgstr "Таблица удалена"
